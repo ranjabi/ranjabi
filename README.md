@@ -3,4 +3,6 @@ I'm third year computer science student interested in front end web development.
 
 https://id.linkedin.com/in/fikriranjabi
 
+Personal Website:
+
 https://ranjabi.netlify.app/
