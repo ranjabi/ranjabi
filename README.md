@@ -6,7 +6,7 @@ https://www.ranjabi.com/
 
 ## Projects
 ### - Next.js routes and components visualizer (NPM package)
-- https://github.com/ranjabi/jabi-next-visualizer.
+- https://github.com/ranjabi/jabi-next-visualizer
 ### - Twitter Clone
 - https://github.com/ranjabi/twitter-clone-frontend
 - https://github.com/ranjabi/twitter-clone-backend
