@@ -5,13 +5,17 @@ I'm interested in web development.
 https://www.ranjabi.com/
 
 ## Projects
-### Next.js routes and components visualizer (NPM package)
-- https://github.com/ranjabi/jabi-next-visualizer
-### Twitter Clone
+
+### Twitter Clone (React, Go)
 - https://github.com/ranjabi/twitter-clone-backend
 - https://github.com/ranjabi/twitter-clone-frontend
-### Url Shortener
+
+### Url Shortener (React, Java Spring Boot)
 - https://github.com/ranjabi/url-shortener-backend
+- https://github.com/ranjabi/url-shortener-frontend
+
+### Next.js routes and components visualizer (NPM package)
+- https://github.com/ranjabi/jabi-next-visualizer
 
 ## Social Media
 - https://id.linkedin.com/in/fikriranjabi  
