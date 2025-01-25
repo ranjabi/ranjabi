@@ -14,7 +14,7 @@ https://www.ranjabi.com/
 - https://github.com/ranjabi/url-shortener-backend
 - https://github.com/ranjabi/url-shortener-frontend
 
-### Next.js routes and components visualizer (NPM package)
+### Next.js Routes and Components Visualizer (NPM Package)
 - https://github.com/ranjabi/jabi-next-visualizer
 
 ## Social Media
