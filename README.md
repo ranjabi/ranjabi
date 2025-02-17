@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm interested in web development and DSA and happy to discuss them!
+I'm interested in web development and happy to discuss them!
 
 ## Personal Website
 https://www.ranjabi.com/
