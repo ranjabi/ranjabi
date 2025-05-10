@@ -2,7 +2,7 @@
 I'm interested in web development and happy to discuss them!
 
 ## Personal Website
-https://www.ranjabi.com/
+https://fikriranjabi.com/
 
 ## Projects
 
